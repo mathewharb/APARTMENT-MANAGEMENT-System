@@ -32,7 +32,7 @@ To deploy this application, Simply:
 
    7 -  open your web browser and navigate to your site or e.g http://localhost/your site/ or http://www.yoursite.com/
 
-    8- use the following to login Credentials to login as Super Admin:
+    8- use the following login Credentials to login as Super Admin:
 
               Usernam:   admin@admin.com 
               Password:  password
